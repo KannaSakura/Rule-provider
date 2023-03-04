@@ -1,2 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,wargaming
+  - DOMAIN-SUFFIX,worldoftanks.asia
+  - PROCESS-NAME,WorldOfWarships64.exe
