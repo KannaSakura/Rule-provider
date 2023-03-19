@@ -15,3 +15,4 @@ payload:
   - PROCESS-NAME,cmb.pb
   - PROCESS-NAME,com.icbc.elife
   - PROCESS-NAME,com.cmbchina.ccd.pluto.cmbActivit
+  - PROCESS-NAME,com.miHoYo.enterprise.NGHSoD
