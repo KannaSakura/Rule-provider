@@ -7,3 +7,4 @@ payload:
   - DOMAIN-KEYWORD,ooklaserver
   - DOMAIN-SUFFIX,speedtest.cloudflare.com
   - DOMAIN-SUFFIX,speed.cloudflare.com
+  - DOMAIN-SUFFIX,ip234.in
