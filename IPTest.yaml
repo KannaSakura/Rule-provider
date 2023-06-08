@@ -9,4 +9,4 @@ payload:
   - DOMAIN-SUFFIX,speed.cloudflare.com
   - DOMAIN-SUFFIX,ip234.in
   - DOMAIN-SUFFIX,ipinfo.io
-  - DOMAIN-SUFFIX,test-ipv6
+  - DOMAIN-SUFFIX,test-ipv6.com
