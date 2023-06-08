@@ -1,7 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,ipip.net
   - DOMAIN-SUFFIX,ipleak.net
-  - DOMAIN-SUFFIX,ipv6-test.com.net
+  - DOMAIN-SUFFIX,ipv6-test.com
   - DOMAIN-SUFFIX,atcc-gns.net
   - DOMAIN-SUFFIX,whoer.net
   - DOMAIN-KEYWORD,ooklaserver
@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,speed.cloudflare.com
   - DOMAIN-SUFFIX,ip234.in
   - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,test-ipv6
