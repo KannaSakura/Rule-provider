@@ -2,4 +2,6 @@ payload:
   # World of Warships
   - PROCESS-NAME,WorldOfWarships64.exe
   - PROCESS-NAME,cef_browser_process.exe
+  § Minecraft
   - PROCESS-NAME,Minecraft.exe
+  - DOMAIN-KEYWORD,hypixel
