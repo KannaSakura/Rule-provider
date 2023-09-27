@@ -1,6 +1,8 @@
 payload:
-  - PROCESS-NAME,com.YostarJP.BlueArchive
-  - PROCESS-NAME,jp.co.cygames.princessconnectredive
+  - PROCESS-NAME,com.YostarJP.BlueArchive 
+  - PROCESS-NAME,jp.co.cygames.princessconnectredive 
+  - PROCESS-NAME,jp.co.cygames.umamusume  
+  - PROCESS-NAME,air.jp.co.cygames.worldflipper  
   - DOMAIN-KEYWORD,cygames
   - DOMAIN-KEYWORD,Yostar
   - DOMAIN-KEYWORD,BlueArchive
