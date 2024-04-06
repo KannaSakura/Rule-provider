@@ -19,4 +19,5 @@ payload:
   - PROCESS-NAME,com.tplink.cloudrouter
   - PROCESS-NAME,com.bilibili.comic
   - PROCESS-NAME,com.duowan.kiwi
-		- PROCESS-NAME,com.taptap
+  - PROCESS-NAME,com.taptap
+  - PROCESS-NAME,com.oray.sunlogin
