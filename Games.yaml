@@ -5,3 +5,4 @@ payload:
   # Minecraft
   - PROCESS-NAME,Minecraft.exe
   - DOMAIN-KEYWORD,hypixel
+  - PROCESS-NAME,r5apex.exe
