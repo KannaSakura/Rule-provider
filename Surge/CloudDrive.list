@@ -1,3 +1,5 @@
 DOMAIN-SUFFIX,katfile.com 
 DOMAIN-SUFFIX,rapidgator.net
 DOMAIN-SUFFIX,nitroflare.com  
+PROCESS-NAME,pikpak.exe 
+PROCESS-NAME,com.pikcloud.pikpak   
