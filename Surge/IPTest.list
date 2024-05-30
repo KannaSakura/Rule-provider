@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,ip234.in
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,test-ipv6.com 
 DOMAIN-SUFFIX,iknowwhatyoudownload.com
+PROCESS-NAME,Speedtest.exe
+PROCESS-NAME,org.zwanoo.android.speedtest
