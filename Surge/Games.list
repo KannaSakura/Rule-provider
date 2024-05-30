@@ -1,0 +1,10 @@
+### Windows Game ###
+# Wargaming # 
+DOMAIN-KEYWORD,wargaming 
+DOMAIN-KEYWORD,wows 
+DOMAIN-KEYWORD,wots
+DOMAIN-SUFFIX,wgcdn.co
+DOMAIN-SUFFIX,worldoftanks.asia
+DOMAIN-SUFFIX,worldofwarships.asia
+PROCESS-NAME,WorldOfWarships64.exe
+PROCESS-NAME,cef_browser_process.exe
